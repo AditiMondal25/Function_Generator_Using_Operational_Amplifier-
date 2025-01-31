@@ -1,6 +1,4 @@
 # Function Generator Using Operational Amplifier
-# Function Generator Design and Implementation
-
 ## Overview
 This repository contains the design, implementation, and evaluation of a function generator built using operational amplifiers (op-amps). Function generators are essential instruments in electronics laboratories that generate a variety of electrical waveforms used for testing, calibration, and experimentation. In this project, we develop a simple yet efficient function generator circuit and explore the different waveform generation techniques using op-amps.
 
